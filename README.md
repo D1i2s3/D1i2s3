@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**D1i2s3/D1i2s3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 1. YOUR REAL PHOTO - GLOWING HACKER GREEN CIRCLE -->
+<a href="https://github.com/D1i2s3">
+  <img src="https://images.weserv.nl/?url=github.com/D1i2s3.png&w=400&h=400&mask=circle&stroke=6,39d353" width="220" height="220" alt="Dishant Soni">
+</a>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 2. ANIMATED TYPING BANNER -->
+<a href="https://github.com/D1i2s3">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=580&lines=Dishant+Soni;Full+Stack+Software+Developer;Competitive+Programmer+%26+DSA;01100011+01101111+01100100+01100101" alt="typing banner">
+</a>
+
+<br><br>
+
+<!-- 3. SOCIAL BADGES -->
+<a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:dishantsoni042@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/D1i2s3"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://leetcode.com" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=D1i2s3&style=flat&color=39d353&label=profile+views" alt="profile views">
+
+</div>
+
+---
+
+## `~/` whoami
+
+```console
+$ cat about.txt
