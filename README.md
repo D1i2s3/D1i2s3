@@ -9,7 +9,7 @@
 
 <!-- 2. ANIMATED TYPING BANNER -->
 <a href="https://github.com/D1i2s3">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=580&lines=Dishant+Soni;Full+Stack+Software+Developer;Competitive+Programmer+%26+DSA;Hustle" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=580&lines=Dishant+Soni;Full+Stack+Software+Developer;Competitive+Programmer+%26+DSA;Hustle is the rule of life" alt="typing banner">
 </a>
 
 <br><br>
