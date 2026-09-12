@@ -29,6 +29,14 @@
 ---
 
 ## `~/` whoami
+## `~/` contribution snake game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D1i2s3/D1i2s3/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D1i2s3/D1i2s3/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/D1i2s3/D1i2s3/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
 
 ```console
 $ cat about.txt
