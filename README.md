@@ -42,9 +42,7 @@
      alt="Profile Views">
 
 </div>
----
 
-## `~/` whoami
 <div align="center">
 
 <picture>
@@ -65,6 +63,8 @@
 
 </div>
 
+
+## `~/` whoami
 ```console
 
 $ whoami
@@ -78,5 +78,7 @@ Data Structures & Algorithms
 
 $ mindset
 Solve. Learn. Improve. Repeat.
+
+
 
 
