@@ -1,9 +1,13 @@
 <div align="center">
 
-<!-- 1. YOUR REAL PHOTO - GLOWING HACKER GREEN CIRCLE -->
 <a href="https://github.com/D1i2s3">
-  <img src="C:\Users\Dishant Soni\Downloads\chatgpt2.png" width="220" height="220" alt="Dishant Soni">
+<img src="https://raw.githubusercontent.com/D1i2s3/D1i2s3/main/chatgpt2.png"
+     width="220"
+     height="220"
+     alt="Dishant Soni">
 </a>
+
+</div>
 
 <br><br>
 
