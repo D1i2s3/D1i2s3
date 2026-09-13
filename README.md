@@ -38,11 +38,10 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=D1i2s3&style=for-the-badge&color=39D353&label=PROFILE+VIEWS"
+<img src="https://img.shields.io/badge/Profile%20Views-55-39D353?style=for-the-badge&logo=github&logoColor=white"
      alt="Profile Views">
 
 </div>
-
 ---
 
 ## `~/` whoami
