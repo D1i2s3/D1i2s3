@@ -2,7 +2,7 @@
 
 <!-- 1. YOUR REAL PHOTO - GLOWING HACKER GREEN CIRCLE -->
 <a href="https://github.com/D1i2s3">
-  <img src="https://images.weserv.nl/?url=github.com/D1i2s3.png&w=400&h=400&mask=circle&stroke=6,39d353" width="220" height="220" alt="Dishant Soni">
+  <img src="C:\Users\Dishant Soni\Downloads\chatgpt2.png" width="220" height="220" alt="Dishant Soni">
 </a>
 
 <br><br>
